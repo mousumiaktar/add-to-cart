@@ -1,0 +1,51 @@
+.main-area{
+    margin: 0 100px 0 100px;
+}
+.main-area{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F8F8F8;
+}
+.children-area{
+    display: flex;
+}
+.children-area h3{
+    padding-right: 50px;
+}
+.horizontal-line{
+    border-bottom: 2px solid #505050;
+    margin: 0 100px 0 100px;
+}
+
+
+.hoody-area{
+    margin: 0 100px 0 100px;
+}
+.hoody-area{
+    display: flex;
+    justify-content: space-between;
+}
+.details-part1 img{
+    height: 50px;
+    width: 50px;
+}
+
+.details-part1, .details-part2, .details-part3{
+    display: flex;
+}
+
+.details-part1 img{
+    padding-right: 50px;
+}
+
+.details-part2 .text{
+    display: flex;
+    margin-left: 200px;
+}
+.text p{
+    padding-right: 20px;
+}
+.details-part3 input button{
+    margin-right: 50px;
+}
+

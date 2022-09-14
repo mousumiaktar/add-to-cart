@@ -1,0 +1,47 @@
+[
+    {
+      "id": "1",
+      "name": "Just Chill",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3Oz4zgbS0SNjncpYFdWYnaG_vGueArkAPWA&usqp=CAU",
+      "price": 14,
+      "color": "red",
+      "size":["xl","xxl" ,"sm"],
+      "stock": "instock"
+    },
+    {
+        "id": "2",
+        "name": "Just Chill",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH0Au25XeVMr_04wd2PMCrbCsvE3b8gSAWmg&usqp=CAU",
+        "price": 14,
+        "color": "black",
+        "size":"xl" ,
+        "stock": "instock" 
+    },
+    {
+        "id": "3",
+        "name": "Just Chill",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEUZaYJjdIF2RdgtA2Y5Cs6GhgbtW6AdZKSlP_7BbF3-5GbsOQ52Yf_gQPOFwdoL7z4Bg&usqp=CAU",
+        "price": 14,
+        "color": "blue",
+        "size":"xxl" ,
+        "stock": "instock" 
+    },
+    {
+        "id": "4",
+        "name": "Just Chill",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeHXL_r0xvqXNIoaekdsy5ME8MncWUlXLFvBkg5_XSZlROyuXNhmO_MVcGnPHeuO4ljCQ&usqp=CAU",
+        "price": 14,
+        "color": "pink",
+        "size":"sm"  ,
+        "stock": "instock" 
+    },
+    {
+        "id": "5",
+        "name": "Just Chill",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYd6ddglUFwZXw8zwMykiFXija360AAvShe8jEVsCtZeYgFX9i46Uxygt5Psw9_k2NXHE&usqp=CAU",
+        "price": 14 ,
+        "color": "red",
+        "size":"sm" ,
+        "stock": "instock"  
+    }
+  ]
